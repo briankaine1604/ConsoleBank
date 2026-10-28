@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NovaBank/NovaBank.csproj" />
+  <Project Path="CrestBank/CrestBank.csproj" />
+</Solution>
