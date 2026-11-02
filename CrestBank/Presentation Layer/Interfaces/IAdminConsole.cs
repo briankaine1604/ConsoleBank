@@ -1,6 +1,5 @@
-namespace NovaBank
+namespace CrestBank
 {
-    /// <summary>Everything the ATM needs from the admin screens.</summary>
     public interface IAdminConsole
     {
         void DisplayAdminMenu();
